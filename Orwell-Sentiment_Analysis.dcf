@@ -1,0 +1,13 @@
+name: Orwell-Sentiment_Analysis
+title: Orwell-Sentiment_Analysis
+username: kening-zhao
+account: kening-zhao
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9604046
+bundleId: 7566610
+url: https://kening-zhao.shinyapps.io/Orwell-Sentiment_Analysis/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|1984.jpeg|AFINN/AFINN-111.txt|AFINN/AFINN-96.txt|AFINN/AFINN-README.txt|animal-farm.jpeg|coming-up.jpeg|data_frame.Rmd|daughter.jpeg|homage.jpg|inputs.Rmd|ui.Rmd
